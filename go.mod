@@ -1,9 +1,9 @@
-module github.com/bradleyfalzon/ghinstallation
+module github.com/yext/ghinstallation
 
-go 1.13
+go 1.14
 
 require (
-	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
-	github.com/google/go-cmp v0.4.0
-	github.com/google/go-github/v30 v30.0.0
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/google/go-cmp v0.5.1
+	github.com/google/go-github/v32 v32.1.0
 )
