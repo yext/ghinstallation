@@ -1,4 +1,4 @@
-module github.com/yext/ghinstallation
+module github.com/as2626/ghinstallation
 
 go 1.14
 
