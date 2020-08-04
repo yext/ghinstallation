@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	jwt "github.com/dgrijalva/jwt-go"
+	"github.com/dgrijalva/jwt-go"
 )
 
 // AppsTransport provides a http.RoundTripper by wrapping an existing
